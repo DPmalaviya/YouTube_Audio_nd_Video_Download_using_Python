@@ -6,20 +6,13 @@ Dive into the world of YouTube with this electrifying Python script that lets yo
 
 1. **Grab Your Python Hat**: Make sure you've got Python installed on your computer. If not, let's suit up and install it!
 
-2. **Sync Up with the Code Jam**: Clone this funky repository.
-
-   ```bash
-   git clone https://github.com/<your-username>/youtube-downloader.git
-   cd youtube-downloader
-   ```
-
-3. **Set the Stage with Packages**: Install the beat-dropping Python packages we need.
+2. **Set the Stage with Packages**: Install the beat-dropping Python packages we need.
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Hit the Dance Floor**: Fire up the script, throw in a YouTube link, and decide what kind of mood you're in - audio only or audio with video!
+3. **Hit the Dance Floor**: Fire up the script, throw in a YouTube link, and decide what kind of mood you're in - audio only or audio with video!
 
    ```bash
    python main.py "<YouTube_link>" <choice>
@@ -29,7 +22,7 @@ Dive into the world of YouTube with this electrifying Python script that lets yo
    - For the ultimate audio experience, type `1` for audio-only action. 🎧
    - If you want the full audio-visual spectacle, type `2` and let the show begin! 🎥
 
-5. **Feel the Beat**: The script will download the files, and you'll be shaking and moving in no time!
+4. **Feel the Beat**: The script will download the files, and you'll be shaking and moving in no time!
 
 ## Playlist of Choices 🎵
 
