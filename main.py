@@ -8,7 +8,7 @@ decision = argv[2]
 title_youtube = YT.title.title()
 print(title_youtube)
 
-Video_filepath = 'DataBase\\Audio'
+Video_filepath = 'DataBase\\Temp'
 Audio_filepath = 'DataBase\\Audio'
 
 if decision == str(1):
